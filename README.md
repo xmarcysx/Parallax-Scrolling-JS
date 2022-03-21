@@ -2,4 +2,4 @@
 <br>
 Parallax-Scrolling-Effect did with youtube tutorial
 <br>
-http://parallax.infinityfreeapp.com/
+http://paralax.freecluster.eu/
